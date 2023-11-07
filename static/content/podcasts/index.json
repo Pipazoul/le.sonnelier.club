@@ -1,0 +1,14 @@
+[
+    {
+        "name": "D.I.G",
+        "path": "d_i_g"
+    },
+    {
+        "name": "Livraison à domicile",
+        "path": "livraison_a_domicile"
+    },
+    {
+        "name": "Sur place ou à emporter",
+        "path": "sur_place_ou_a_emporter"
+    }
+]

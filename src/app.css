@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'League Gothic';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''), url('/fonts/league_gothic/LeagueGothic-Regular.otf') format('embedded-opentype')
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    font-style: italic;
+    font-weight: 500;
+    src: local(''), url('/fonts/league_gothic/LeagueGothic-CondensedItalic.otf') format('embedded-opentype')
+}
+
+body {
+    font-family: 'League Gothic', sans-serif;
+}
